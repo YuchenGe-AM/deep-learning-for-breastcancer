@@ -6,6 +6,6 @@ This repository is for the deep learning project under the supervision of profes
 
 1. Reference: Dive_into_DeepLearning ( https://zh.d2l.ai/chapter_preface/index.html ) and ML notes by Hua （ http://www.huaxiaozhuan.com ）.
 
-2. homework2.ipynb Homework3.ipynb is the code of the second homework wiritten by me. 
+2. homework2.ipynb, homework3.ipynb is the code of the second homework wiritten by me. 
 
-3. HMM and CRF are notes from Hua.
+3. 1_HMM and 2_CRF are notes from Hua.
