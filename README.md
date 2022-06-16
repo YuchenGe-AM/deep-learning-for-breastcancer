@@ -6,4 +6,4 @@ This repository is for the deep learning project under the supervision of profes
 2. Reference: Dive_into_DeepLearning ( https://zh.d2l.ai/chapter_preface/index.html ) and ML notes by Hua （ http://www.huaxiaozhuan.com ）.
 3. homework2.ipynb, homework3.ipynb is the code of the second homework wiritten by me. 
 4. 1_HMM and 2_CRF are notes from Hua.
-5. DeepLearning_AndrewNG is the file for notes from the Coursera lesson 《Deep Learning》.
+5. DeepLearning_AndrewNG is the file for notes from the Coursera lesson Deep Learning offered from Angdrew NG.
