@@ -1,4 +1,4 @@
-# Selfstudy_Deep_Learning
+# Self_Study_DeepLearning
 
 This repository is for the deep learning project under the supervision of professor Mark from MIT.
 
