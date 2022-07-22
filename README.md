@@ -7,3 +7,4 @@ This repository is for the deep learning project under the supervision of profes
 3. homework2.ipynb, homework3.ipynb is the code of the second homework wiritten by me. 
 4. 1_HMM and 2_CRF are notes from Hua.
 5. DeepLearning_AndrewNG is the file for notes from the Coursera lesson Deep Learning offered from Angdrew NG.
+6. MLA style: https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_style_introduction.html
